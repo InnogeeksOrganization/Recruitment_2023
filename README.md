@@ -44,6 +44,8 @@ Select a project from the following list.
   - [Bhuk](https://github.com/soumenkp2/SocioWelfare-Bhuk)
   - [Pehchan - A Phonebook App](https://github.com/soumenkp2/Pehchaan)
   - [Resume Builder](https://github.com/soumenkp2/resume_builder)
+  - [Flutter Eventifyer](https://github.com/rachit-goyal1071/flutter-eventifyer)
+  - [Go Green](https://github.com/ShubhAgarwal0704/Gogreen)
  
 - 🌐 Web Development
   - [EcoJoy](https://github.com/RyanWalker277/EcoJoy)
@@ -51,6 +53,7 @@ Select a project from the following list.
  
 - 🐍 Python & Data
   - [Gesture Control Gaming](https://github.com/ambuj-1211/Gesture-Controlled-Game)
+  - [Alien Invansion](https://github.com/enrich4real/Alien_Invasion)
 
 
 ## All the best!👍
