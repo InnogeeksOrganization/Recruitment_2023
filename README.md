@@ -23,7 +23,6 @@ Select a project from the following list.
 ### **Beginner**
 
 - [~~Simple Login Form~~](https://github.com/devAyushDubey/simpleformINNO) : (HTML, CSS)
-- [Blog Cards](https://github.com/devAyushDubey/blogcardsINNO) : (HTML, CSS)
 - [Pushup Game](https://github.com/visheshks04/pushup-pong) : (Python)
 - [truWeather](https://github.com/1010varun/weather-app) : (HTML, Tailwind CSS, JS)
 - [QR Convertor](https://github.com/1010varun/qr-convertor) : (React)
