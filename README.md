@@ -16,7 +16,7 @@ Select a project from the following list.
 **Your evaluation will be based on the input you have made.**
 ### **Deadline**❗
 
-`  30 October` to `5 November`
+`  5 November` to `10 November`
 
 ## Projects List 💻
 
