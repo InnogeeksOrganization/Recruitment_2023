@@ -30,6 +30,7 @@ Select a project from the following list.
 - [Innogeeks AR Poster](https://github.com/devAyushDubey/ARPoster2021_Innogeeks) (Unity 3D)
 - [Spotify Clone](https://github.com/arjit1704/Spotify_Clone) : (HTML, CSS, JS)
 - [Text Edits](https://github.com/arjit1704/TextEdits) : (Django)
+- [Vastra Studio](https://github.com/AdityyaX/Vastra_Studio) : (Django)
 
 
 ### **Intermediate**
