@@ -23,14 +23,14 @@ Select a project from the following list.
 ### **Beginner**
 
 - [~~Simple Login Form~~](https://github.com/devAyushDubey/simpleformINNO) : (HTML, CSS)
-- [Pushup Game](https://github.com/visheshks04/pushup-pong) : (Python)
+- [newz-aware]((https://github.com/visheshks04/newz-aware)) : (Python)
 - [truWeather](https://github.com/1010varun/weather-app) : (HTML, Tailwind CSS, JS)
 - [QR Convertor](https://github.com/1010varun/qr-convertor) : (React)
 - [Article Scraper](https://github.com/visheshks04/article-scraper) : (Python)
 - [Innogeeks AR Poster](https://github.com/devAyushDubey/ARPoster2021_Innogeeks) (Unity 3D)
 - [Spotify Clone](https://github.com/arjit1704/Spotify_Clone) : (HTML, CSS, JS)
 - [Text Edits](https://github.com/arjit1704/TextEdits) : (Django)
-- [Vastra Studio](https://github.com/AdityyaX/Vastra_Studio) : (Django)
+
 
 
 ### **Intermediate**
